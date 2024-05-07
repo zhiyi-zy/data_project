@@ -1,5 +1,5 @@
 # Airbnb Data Visualization Project
-This repository contains the code and data for the visualization of Airbnb data in Tasmania, created as part of the course code1161 Design Computing.
+This repository contains the code and data for the visualization of Airbnb data in Tasmania, created as part of the final project for course CODE1161 Design Computing.
 
 # Overview
 In this project, we utilize Python and Jupyter Notebook to visualize Airbnb data collected from Tasmania. The aim is to provide insights into the availability, pricing, and distribution of Airbnb listings across the region.
