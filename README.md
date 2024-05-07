@@ -10,7 +10,7 @@ TAS AirBnB.xlsx: The raw data file containing information about Airbnb listings 
 tasmania.json: JSON file containing geographical data for Tasmania, used for creating maps.
 airbnbs_availability.png: A PNG image file displaying the availability of Airbnb listings in Tasmania.
 
-#How to Use
+# How to Use
 To explore the visualization and analysis of Airbnb data:
 - Clone this repository to your local machine.
 - Open presentation.ipynb in a Jupyter Notebook environment.
